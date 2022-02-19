@@ -1,0 +1,11 @@
+#iFrame{
+    width: 500px;
+    height: 700px;
+}
+
+#leftDiv{
+    float: left;
+}
+#rightDiv{
+    float: right;
+}
